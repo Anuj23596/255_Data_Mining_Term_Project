@@ -9,4 +9,4 @@ Data Visualizationa and Model Training has been done through the notebook.
 
 PART 2 - DATASETS - CONTAINS EXPLORED DATASETS FOR LAST 5 YEARS.
 
-PART 3 - 
+PART 3 - Python dash application dashboard inorder to view the general trends of past 5 years. Commands to run - "Python dashboard.py"
